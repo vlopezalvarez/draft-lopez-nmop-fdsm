@@ -18,8 +18,8 @@ venue:
 #  type: "Working Group"
 #  mail: "opsawg@ietf.org"
 #  arch: "https://mailarchive.ietf.org/arch/browse/opsawg/"
-  github: "vlopezalvarez/draft-opsawg-lopez-fdsm"
-  latest: "https://vlopezalvarez.github.io/draft-opsawg-lopez-fdsm/draft-opsawg-lopez-fdsm.html"
+  github: "vlopezalvarez/draft-lopez-opsawg-fdsm"
+  latest: "https://vlopezalvarez.github.io/draft-lopez-opsawg-fdsm/draft-opsawg-lopez-fdsm.html"
 
 author:
  -
