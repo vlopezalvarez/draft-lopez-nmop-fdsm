@@ -3,23 +3,23 @@ title: "Formal definition of state machines"
 abbrev: "Formal definition of state machines"
 category: info
 
-docname: draft-opsawg-lopez-fdsm-latest
+docname: draft-nmop-lopez-fdsm-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
 consensus: true
 v: 3
 # area: "Operations and Management"
-# workgroup: "Operations and Management Area Working Group"
+# workgroup: "Network Management Operations"
 keyword:
  - state machines
 venue:
-#  group: "Operations and Management Area Working Group"
+#  group: "Network Management Operations"
 #  type: "Working Group"
-#  mail: "opsawg@ietf.org"
-#  arch: "https://mailarchive.ietf.org/arch/browse/opsawg/"
-  github: "vlopezalvarez/draft-lopez-opsawg-fdsm"
-  latest: "https://vlopezalvarez.github.io/draft-lopez-opsawg-fdsm/draft-opsawg-lopez-fdsm.html"
+#  mail: "nmop@ietf.org"
+#  arch: "https://mailarchive.ietf.org/arch/browse/nmop/"
+  github: "vlopezalvarez/draft-lopez-nmop-fdsm"
+  latest: "https://vlopezalvarez.github.io/draft-lopez-nmop-fdsm/draft-nmop-lopez-fdsm.html"
 
 author:
  -
